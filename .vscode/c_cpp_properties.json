@@ -1,0 +1,74 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "c:/Users/The Nardosys/Documents/PlatformIO/Projects/230703-230811-uno/include",
+                "c:/Users/The Nardosys/Documents/PlatformIO/Projects/230703-230811-uno/src",
+                "C:/Users/The Nardosys/Documents/Arduino/libraries/LiquidCrystal_I2C",
+                "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/The Nardosys/Documents/Arduino/libraries/DallasTemperature",
+                "C:/Users/The Nardosys/Documents/Arduino/libraries/OneWire",
+                "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/variants/standard",
+                "C:/Users/The Nardosys/Documents/Arduino/libraries/Adafruit_BusIO",
+                "C:/Users/The Nardosys/Documents/Arduino/libraries/RTCLib_by_NeiroN/src",
+                "C:/Users/The Nardosys/Documents/Arduino/libraries/Rtc_by_Makuna/src",
+                "C:/Users/The Nardosys/Documents/Arduino/libraries/SD/src",
+                "C:/Users/The Nardosys/Documents/Arduino/libraries/SPI",
+                "c:/Users/The Nardosys/Documents/PlatformIO/Projects/230703-230811-uno/.pio/libdeps/uno/Unity/src",
+                "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/The Nardosys/Documents/PlatformIO/Projects/230703-230811-uno/include",
+                    "c:/Users/The Nardosys/Documents/PlatformIO/Projects/230703-230811-uno/src",
+                    "C:/Users/The Nardosys/Documents/Arduino/libraries/LiquidCrystal_I2C",
+                    "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/The Nardosys/Documents/Arduino/libraries/DallasTemperature",
+                    "C:/Users/The Nardosys/Documents/Arduino/libraries/OneWire",
+                    "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "C:/Users/The Nardosys/Documents/Arduino/libraries/Adafruit_BusIO",
+                    "C:/Users/The Nardosys/Documents/Arduino/libraries/RTCLib_by_NeiroN/src",
+                    "C:/Users/The Nardosys/Documents/Arduino/libraries/Rtc_by_Makuna/src",
+                    "C:/Users/The Nardosys/Documents/Arduino/libraries/SD/src",
+                    "C:/Users/The Nardosys/Documents/Arduino/libraries/SPI",
+                    "c:/Users/The Nardosys/Documents/PlatformIO/Projects/230703-230811-uno/.pio/libdeps/uno/Unity/src",
+                    "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/The Nardosys/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60111",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "compilerPath": "C:/Users/The Nardosys/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
